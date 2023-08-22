@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on studies
 - 🤔 I’m looking for help with modern graphics programming
 - 💬 Ask me about computers
-- 📫 How to reach me: alanhaugen.github.io
+- 📫 How to reach me: [alanhaugen.github.io](https://alanhaugen.github.io)
 - ⚡ Fun fact: Has a degree in biotechnology
